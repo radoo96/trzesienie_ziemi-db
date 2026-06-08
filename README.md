@@ -1,4 +1,4 @@
-Mapa trzęsień ziemi
+Mapa trzęsień ziemi.
 Jest to projekt, który pobiera dane o trzęsieniach ziemi z publicznego API USGS (amerykańska służba geologiczna), zapisuje je w bazie danych PostgreSQL działającej w kontenerze Docker i wyświetla na interaktywnej mapie świata.
 Każde trzęsienie to kółko na mapie — im większe i bardziej czerwone, tym silniejszy wstrząs. Po kliknięciu pokazują się szczegóły: miejsce, magnituda, głębokość i czas.
 
